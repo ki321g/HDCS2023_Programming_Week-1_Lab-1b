@@ -1,5 +1,5 @@
-# Higher Diploma in Computer Science 2023
-## Week_1 - Lab-1b
+## Higher Diploma in Computer Science 2023
+# Week_1 - Lab-1b
 
 Exercises
 The exercises are typically based on the material we covered in the previous steps in this lab and the associated lectures.
