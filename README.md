@@ -1,12 +1,12 @@
 ## Higher Diploma in Computer Science 2023
 # Week_1 - Lab-1b
 
-Exercises
+#Exercises
 The exercises are typically based on the material we covered in the previous steps in this lab and the associated lectures.
 
 For each exercise listed below, open a new sketch.
 
-###### Exercise 1 (static drawing)
+## Exercise 1 (static drawing)
 In Step04 we entered this code:
 
 ![alt text](https://github.com/ki321g/HDCS2023_Week-1_Lab-1b/blob/main/imgs_rm/e1_1.png)
@@ -21,10 +21,10 @@ Using this code as a starting point, make the following changes so that your out
 
 **NOTE:** the object of this exercise is to use the arithmetic operators on the variables (a,b,c).
 
-###### Exercise_2
+## Exercise_2
 The object of this exercise is to produce the same output as Exercise 1, but instead of using variables (a,b,c) use the **width** and **height** system variables and perform artihmetic calculations on them to produce the desired output.
 
-###### Exercise_3
+## Exercise_3
 Produce the following animation:
 
 - a white circle is drawn when you move the mouse; only one circle is visible at one time (i.e. all previous ones are cleared).
@@ -33,7 +33,7 @@ Produce the following animation:
 
 When you run your code, your circle should grow in size as you move your mouse pointer down the window and reduce in size when you move your mouse up the window. When you move your mouse horizontally, the circle should stay the same size.
 
-###### Exercise_4
+## Exercise_4
 Using exercise 3 as a starting point, add the following animation to it:
 
 - a black circle is drawn when you move the mouse (all previous black circles are cleared).
@@ -42,4 +42,22 @@ Using exercise 3 as a starting point, add the following animation to it:
 
 When you run your code, the black circle should overlap the white circle when you drag your mouse from (0,0) diagnolally down to (100,100). When you move your mouse horizontally, the black circle show grow/shrink in size. It remains the same size when the mouse is dragged vertically. Note that the white circle's behaviour hasn't changed.
 
+# Challenges
+For each exercise listed below, open a new sketchbook.
 
+You may need to visit the [Processing website](https://processing.org/reference/) for additional information.
+
+## Challenge 1 (animated drawing with no cursor)
+Do some research to figure out how to turn the mouse pointer (cursor) off.
+
+Implement this functionality in any one of the exercises from the previous step.
+
+## Challenge 2 (animated drawing with a different cursor)
+Do some research to figure out how to turn the mouse pointer (cursor) into a hand.
+
+Implement this functionality in any one of the exercises from the previous step.
+
+## Challenge 3 (animated drawing using a drag effect)
+Do some research into the Processing variables: pmousex and pmousey.
+
+Write a Processing sketch that uses these variables.
