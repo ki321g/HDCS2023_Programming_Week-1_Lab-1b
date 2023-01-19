@@ -8,12 +8,12 @@
 
 void setup()
 {
-  size(500, 400);
+  size(400, 400);
   noCursor();
 }
 void draw()
 {
-  background(0); //Black
+  background(102); //Black
 
   noStroke();
   fill(255, 255, 255);  // White

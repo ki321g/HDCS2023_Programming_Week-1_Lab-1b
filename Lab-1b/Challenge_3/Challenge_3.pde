@@ -8,11 +8,11 @@
 
 void setup()
 {
-  size(400, 400);
-  background(0); //Black
+  size(400, 400);  
 }
 
 void draw() {
+  background(104); //Black
   fill(255);
-  rect(pmouseX, pmouseY, pmouseY, pmouseX);
+  rect(mouseX, mouseY, pmouseY, pmouseX);
 }

@@ -8,7 +8,7 @@
 
 void setup()
 {
-  size(500, 400);
+  size(400, 400);
   cursor(HAND);
 }
 void draw()
